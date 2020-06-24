@@ -71,12 +71,6 @@ print("the floor value of 23.56 is ",math.floor(23.56))
 print("the ceiling value of 23.56 is ",math.ceil(23.56))
 
 
-# In[23]:
-
-
-import math
-print(math.sin(0.8660254037844386))
-
 
 # In[ ]:
 
