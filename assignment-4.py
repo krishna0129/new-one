@@ -44,7 +44,7 @@ else:
 #3. Marks of Students
 n = int(input("Enter number of students "))
 if(n>=0):
-    student=["Fuker"]
+    student=["krishna"]
     for i in range(0,n):
         name=input('Enter the name of student ')
         print(name)
@@ -59,11 +59,7 @@ if(n>=0):
         print(student[i])
 else:
     print("Invalid input")
-
-
-# In[ ]:
-
-
+ 
 #4. Multiplication Table
 n=int(input("enter the number for multiplication table : "))
 for i in range(1, 11):
